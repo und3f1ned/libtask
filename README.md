@@ -14,4 +14,4 @@ To build the LMX library, edit "task.h" and set **MACHINE** to the required arch
 
 Note that the AVR and ARM builds assume the Arduino IDE with the Teensy plugin.
 
-by David P. Anderson
+by [David P. Anderson](http://www.geology.smu.edu/~dpa-www/myrobots.html) and [DPRG](https://www.dprg.org/)
